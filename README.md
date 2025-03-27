@@ -1,3 +1,5 @@
+이 프로젝트에서는 Flask라는 인기 있는 웹 프레임워크와 LangChain이라는 대형 언어 모델(LLM) 작업을 위한 또 다른 인기 있는 프레임워크를 사용하여 자신의 PDF 파일에 대한 챗봇을 만들 것입니다. 개발할 챗봇은 사용자와 텍스트를 통해 상호작용할 뿐만 아니라 특정 문서의 내용과 관련된 질문을 이해하고 답변할 수 있습니다.
+
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
